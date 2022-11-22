@@ -7,7 +7,7 @@
 <html>
 <body>
 
-  ## M4-Multi-factor - (DATA) 
+  ## M4-Multi-factor-analysis- (DATA) 
 Code repo for paper titled 'A Multi-Factor Analysis of Forecasting Methods: A Study on the M4 Competition' published in open access journal on data in science : Data
 
   ## Contributors
