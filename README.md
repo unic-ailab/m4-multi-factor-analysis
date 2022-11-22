@@ -8,10 +8,10 @@
 <body>
 
   ## M4-Multi-factor-analysis- (DATA) 
-Code repo for paper titled 'A Multi-Factor Analysis of Forecasting Methods: A Study on the M4 Competition' published in open access journal on data in science : Data
+Code repo for paper titled 'A Multi-Factor Analysis of Forecasting Methods: A Study on the M4 Competition' published in the open access journal on data in science, Data
 
   ## Contributors
-- [Pantelis Agathangelou](https://github.com/ailabunic-panagath)
+- [Pantelis Agathangelou](https://www.researchgate.net/profile/Pantelis-Agathangelou)
 - [Demetris Trihinas](https://dtrihinas.info/)
 - [Ioannis Katakis](http://www.katakis.eu/)
 
