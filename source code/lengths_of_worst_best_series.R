@@ -11,7 +11,7 @@ library(xlsx)
 #m4 dataset path
 m4filesPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\M4-methods-master\\")
 #multi factor analysis path
-m4MultifactorPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\m4-multi-factor-analysis-master\\")
+m4MultifactorPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\m4-multi-factor-analysis-main\\")
 
 #library(viridis)
 
