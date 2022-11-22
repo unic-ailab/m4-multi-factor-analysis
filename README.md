@@ -27,7 +27,7 @@ DOI: <a href="https://doi.org/10.3390/data5020041">10.3390/data5020041</a>
 The framework is open-sourced under the Apache 2.0 License base. The codebase of the framework is maintained by the authors for academic research and is therefore provided "as is".
   
   
-</body>
+</body> 
 </html>
 
 </body>
