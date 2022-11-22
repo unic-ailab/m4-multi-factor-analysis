@@ -17,7 +17,7 @@ Code repo for paper titled 'A Multi-Factor Analysis of Forecasting Methods: A St
 
   ## Reference
 When using the code-base please use the following reference to cite our work:<br/>
-DOI: <a href="https://doi.org/10.3390/data5020041</a>   
+DOI: <a href="https://doi.org/10.3390/data5020041">10.3390/data5020041</a>
 
   ## How to run the source code files
 1: The code-base is set to run without additional path settings, if it is downloaded and placed at the downloads folder <br/>
