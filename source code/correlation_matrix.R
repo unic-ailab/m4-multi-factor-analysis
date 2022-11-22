@@ -16,7 +16,7 @@ col4 <- colorRampPalette(c("#7F0000", "red", "#FF7F00", "yellow",
 #m4 dataset path
 m4filesPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\M4-methods-master\\")
 #multi factor analysis path
-m4MultifactorPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\m4-multi-factor-analysis-master\\")
+m4MultifactorPath <- paste0(Sys.getenv('USERPROFILE'),"\\Downloads\\m4-multi-factor-analysis-main\\")
 
 # set list of top-10 methods
 top10methods <- c("118","245","237","072","069","036","078","260","238","039")
