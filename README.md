@@ -13,7 +13,7 @@ Code repo for paper titled 'A Multi-Factor Analysis of Forecasting Methods: A St
   ## Contributors
 - [Pantelis Agathangelou](https://github.com/ailabunic-panagath)
 - [Demetris Trihinas](https://dtrihinas.info/)
-- [Ioannis Katakis](https://github.com/iokat)
+- [Ioannis Katakis](http://www.katakis.eu/)
 
   ## Reference
 When using the code-base please use the following reference to cite our work:<br/>
